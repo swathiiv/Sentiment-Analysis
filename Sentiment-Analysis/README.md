@@ -1,4 +1,3 @@
- 
 Classifiers for an ensemble model from NLTK-ScikitLearn library: 
 Naive Bayes (NB)
 Multinomial NB
